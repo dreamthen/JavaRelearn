@@ -1,0 +1,5 @@
+一、Java简介
+1.Java运行原理:源文件(.java)通过编译器转化成字节码文件(.class),再通过JVM中的解释器进行运行
+2.JDK:Java运行开发包工具
+  JRE:Java运行环境
+  JDK包含JRE,JRE包含JVM
